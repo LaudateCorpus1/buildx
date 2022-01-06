@@ -10,7 +10,7 @@ require (
 	github.com/cloudflare/cfssl v0.0.0-20181213083726-b94e044bb51e // indirect
 	github.com/compose-spec/compose-go v0.0.0-20210729195839-de56f4f0cb3c
 	github.com/containerd/console v1.0.2
-	github.com/containerd/containerd v1.5.5
+	github.com/containerd/containerd v1.5.9
 	github.com/docker/cli v20.10.7+incompatible
 	github.com/docker/compose-on-kubernetes v0.4.19-0.20190128150448-356b2919c496 // indirect
 	github.com/docker/distribution v2.7.1+incompatible
@@ -33,7 +33,7 @@ require (
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/moby/buildkit v0.8.2-0.20210702160134-1a7543a10527
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/opencontainers/image-spec v1.0.1
+	github.com/opencontainers/image-spec v1.0.2
 	github.com/pkg/errors v0.9.1
 	github.com/serialx/hashring v0.0.0-20190422032157-8b2912629002
 	github.com/sirupsen/logrus v1.8.1
